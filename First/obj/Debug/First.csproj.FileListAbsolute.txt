@@ -1,0 +1,7 @@
+C:\Users\BHARATH\source\repos\FirstSolution\First\obj\Debug\First.csprojAssemblyReference.cache
+C:\Users\BHARATH\source\repos\FirstSolution\First\obj\Debug\First.csproj.CoreCompileInputs.cache
+C:\Users\BHARATH\source\repos\FirstSolution\First\bin\Debug\First.exe.config
+C:\Users\BHARATH\source\repos\FirstSolution\First\bin\Debug\First.exe
+C:\Users\BHARATH\source\repos\FirstSolution\First\bin\Debug\First.pdb
+C:\Users\BHARATH\source\repos\FirstSolution\First\obj\Debug\First.exe
+C:\Users\BHARATH\source\repos\FirstSolution\First\obj\Debug\First.pdb
