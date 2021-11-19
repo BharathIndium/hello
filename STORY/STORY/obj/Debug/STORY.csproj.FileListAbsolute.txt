@@ -1,0 +1,7 @@
+C:\Users\I4340\source\repos\STORY\STORY\obj\Debug\STORY.csproj.CoreCompileInputs.cache
+C:\Users\I4340\source\repos\STORY\STORY\bin\Debug\STORY.exe.config
+C:\Users\I4340\source\repos\STORY\STORY\bin\Debug\STORY.exe
+C:\Users\I4340\source\repos\STORY\STORY\bin\Debug\STORY.pdb
+C:\Users\I4340\source\repos\STORY\STORY\obj\Debug\STORY.exe
+C:\Users\I4340\source\repos\STORY\STORY\obj\Debug\STORY.pdb
+C:\Users\I4340\source\repos\STORY\STORY\obj\Debug\STORY.csproj.AssemblyReference.cache
